@@ -1,0 +1,10 @@
+source /home/jiaqi/Desktop/san ge/weenix/kernel/main/gdt.gdb
+source /home/jiaqi/Desktop/san ge/weenix/kernel/mm/pagetable.gdb
+source /home/jiaqi/Desktop/san ge/weenix/kernel/proc/kthread.gdb
+source /home/jiaqi/Desktop/san ge/weenix/kernel/vm/vmmap.gdb
+source /home/jiaqi/Desktop/san ge/weenix/kernel/mm/memcheck.py
+source /home/jiaqi/Desktop/san ge/weenix/kernel/mm/page.py
+source /home/jiaqi/Desktop/san ge/weenix/kernel/mm/slab.py
+source /home/jiaqi/Desktop/san ge/weenix/kernel/proc/proc.py
+source /home/jiaqi/Desktop/san ge/weenix/kernel/util/debug.py
+source /home/jiaqi/Desktop/san ge/weenix/kernel/util/list.py
